@@ -7,31 +7,55 @@ Technologies I'm an expert on:
 ✔️ WordPress
 
 ✔️ PSD to WordPress.
+
 ✔️ Pixel Perfect WordPress Website using page Builder.
+
 Elementor Builder
+
 Divi Builder
+
 Visual Composer
+
 ✔️ WordPress theme customization
+
 ✔️ Woo-commerce customization for any type of eCommerce website
+
 ✔️ WordPress plugin
+
 ✔️ WordPress speed optimization Expert (GT metric / Page speed)
+
 ✔️ Laravel
+
 ✔️ Vue.js
+
 ✔️ Codeigniter
+
 ✔️ Magento 2
+
 ✔️ MySQL
+
 ✔️ JQuery
+
 ✔️ Vue
+
 ✔️ Face Recognition with the using of Python
+
 
 Payment
 ✔️ Stripe (Expert in stripe and can able to integrate any type of Stripe method)
+
 ✔️ Paypal
+
 ✔️ Sagepay
+
 
 
 Hosting
 ✔️ GoDaddy
+
 ✔️ Hostinger
+
 ✔️ Bluehost
+
 ✔️ Google Console
+
