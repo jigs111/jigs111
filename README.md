@@ -28,6 +28,7 @@ Payment
 ✔️ Paypal
 ✔️ Sagepay
 
+
 Hosting
 ✔️ GoDaddy
 ✔️ Hostinger
