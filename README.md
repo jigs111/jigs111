@@ -50,6 +50,8 @@ Payment
 
 
 
+
+
 Hosting
 ✔️ GoDaddy
 
@@ -58,4 +60,8 @@ Hosting
 ✔️ Bluehost
 
 ✔️ Google Console
+
+I am sure I can provide you with the perfect Result.
+
+<p dir="auto"> Let's discuss for success!!! <a href="https://www.linkedin.com/in/jigendra-thakor/">Contact me</a> <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png"><img class="emoji" alt="blush" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png"></g-emoji> </p>
 
