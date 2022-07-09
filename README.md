@@ -5,6 +5,7 @@ I am comfortable working with issue tracking systems such as Jira, Pivotal, Trel
 Technologies I'm an expert on:
 
 ✔️ WordPress
+
 ✔️ PSD to WordPress.
 ✔️ Pixel Perfect WordPress Website using page Builder.
 Elementor Builder
